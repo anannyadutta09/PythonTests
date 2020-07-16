@@ -1,2 +1,2 @@
-message="Anannya1"
+message="Ananny"
 print(message.title())
