@@ -1,0 +1,22 @@
+To clone a Repository
+===============
+
+git clone https://github.com/anannyadutta09/PythonTests.git
+
+
+
+
+
+To push the code from console
+===================================
+
+1. Add files to git staging :
+git add * 
+
+
+2. Add comment and commit :
+git commit -m "MEANINGFUL MESSAGE"
+
+
+3. Push the changes
+git push
