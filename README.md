@@ -25,3 +25,8 @@ git commit -m "MEANINGFUL MESSAGE"
 ````
 git push
 ````
+
+## Pull files from a repo to local macihne
+````
+git pull origin master'
+````
